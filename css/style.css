@@ -1,6 +1,6 @@
 /* Estilo Global */
 body{
-    background-image: url("../imagens/museuBackground.jpg");
+    background-image: url("/media/imagens/museuBackground.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
